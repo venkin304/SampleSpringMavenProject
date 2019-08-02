@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e269d98b-db18-4fb8-b769-94109cf502d1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1OqCGNbNEqBov2xKOKv0KKeWS8I" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ManageOrderControllerTest.testFulfillOrder_failure">
+    <configuration name="ManageOrderControllerTest.testFulfillOrder_failure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenbricksales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.customer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.customer.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.customer.controller.ManageOrderControllerTest" />
+      <option name="METHOD_NAME" value="testFulfillOrder_failure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageOrderControllerTest.testFulfillOrder_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenbricksales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.customer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.customer.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.customer.controller.ManageOrderControllerTest" />
+      <option name="METHOD_NAME" value="testFulfillOrder_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageOrderControllerTest.testGetOrder_failure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenbricksales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.customer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.customer.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.customer.controller.ManageOrderControllerTest" />
+      <option name="METHOD_NAME" value="testGetOrder_failure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageOrderControllerTest.testGetOrders_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenbricksales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.customer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.customer.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.customer.controller.ManageOrderControllerTest" />
+      <option name="METHOD_NAME" value="testGetOrders_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManageOrderControllerTest.testUpdateOrder_success" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenbricksales" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.customer.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.customer.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.customer.controller.ManageOrderControllerTest" />
+      <option name="METHOD_NAME" value="testUpdateOrder_success" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManageOrderControllerTest.testFulfillOrder_failure" />
+        <item itemvalue="JUnit.ManageOrderControllerTest.testFulfillOrder_success" />
+        <item itemvalue="JUnit.ManageOrderControllerTest.testUpdateOrder_success" />
+        <item itemvalue="JUnit.ManageOrderControllerTest.testGetOrders_success" />
+        <item itemvalue="JUnit.ManageOrderControllerTest.testGetOrder_failure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e269d98b-db18-4fb8-b769-94109cf502d1" name="Default Changelist" comment="" />
+      <created>1564695642526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564695642526</updated>
+      <workItem from="1564695646533" duration="22920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
